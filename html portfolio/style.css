@@ -1,0 +1,27 @@
+h1{
+    color : greenyellow;
+}
+
+ /* *{
+   border : solid;
+ }*/
+
+p,h2{
+    color : orangered;
+    text-align: center;
+}
+.header{
+    background-color : orangered;
+    display : flex;
+    justify-content : space-between;
+}
+.grid{
+    display : flex;
+    flex-wrap : wrap;
+    justify-content : space-evenly;
+}
+
+.footer{
+    display : flex;
+    justify-content : space-between;
+}
